@@ -5,5 +5,5 @@
 <ol>
   <li>Faça um clone em sua máquina</li>
   <li>Dê um npm install na pasta raiz do projeto para instalar todas as dependências</li>
-  <li>Depois rode o script npm run dev no terminal na pasta riz do projeto para rodar a aplicação em localhos</li>
+  <li>Depois rode o script npm run dev no terminal na pasta raiz do projeto para rodar a aplicação em localhos</li>
 </ol>
